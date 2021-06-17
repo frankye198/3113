@@ -1,0 +1,6 @@
+E:\AAAGAMES\3113\VisualStudioSDLProject\SDLProject\Debug\SDLProject.exe
+E:\AAAGAMES\3113\VisualStudioSDLProject\SDLProject\Debug\SDLProject.pdb
+E:\AAAGAMES\3113\ProjectOne\Debug\SDLProject.exe
+E:\AAAGAMES\3113\ProjectOne\Debug\SDLProject.pdb
+E:\AAAGAMES\3113\ProjectTwo\Debug\SDLProject.exe
+E:\AAAGAMES\3113\ProjectTwo\Debug\SDLProject.pdb

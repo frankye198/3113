@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\AAAGAMES\3113\ProjectTwo\main.cpp(190,107): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\AAAGAMES\3113\ProjectTwo\main.cpp(197,99): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\AAAGAMES\3113\ProjectTwo\main.cpp(204,99): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ShaderProgram.cpp
+  Generating Code...
+  SDLProject.vcxproj -> E:\AAAGAMES\3113\ProjectTwo\Debug\SDLProject.exe
