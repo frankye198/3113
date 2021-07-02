@@ -437,9 +437,9 @@ void Render() {
     glClear(GL_COLOR_BUFFER_BIT);
     GLuint font = LoadTexture("font1.png");
 
-    if (stage == 1 || stage == 2) DrawText(&program, font, "YOU DIED", 1.25, -0.25, glm::vec3(-3.25, 1, 0));
+    if (stage == 1 || stage == 2) DrawText(&program, font, "GG!", 1.25, -0.25, glm::vec3(-1, 1, 0));
 
-    if (stage == 3) DrawText(&program, font, "YOU SURVIVED", 1.25, -0.25, glm::vec3(-5.5, 1, 0));
+    if (stage == 3) DrawText(&program, font, "Good job!", 1.25, -0.25, glm::vec3(-4, 1, 0));
 
     for (int i = 0; i < PLATFORM_COUNT; i++) {
         state.platforms[i].Render(&program);
