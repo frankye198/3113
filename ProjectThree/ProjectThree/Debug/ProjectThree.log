@@ -1,0 +1,7 @@
+﻿  Entity.cpp
+  main.cpp
+E:\AAAGAMES\3113\ProjectThree\ProjectThree\main.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+E:\AAAGAMES\3113\ProjectThree\ProjectThree\main.cpp(148,30): warning C4305: '=': truncation from 'double' to 'float'
+  ShaderProgram.cpp
+  Generating Code...
+  ProjectThree.vcxproj -> E:\AAAGAMES\3113\ProjectThree\Debug\ProjectThree.exe
